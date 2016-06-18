@@ -1,0 +1,17 @@
+html,
+body {
+	height: 100%;
+}
+
+#boss-container {
+	background: url("imgs/oldToronto.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: white;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
