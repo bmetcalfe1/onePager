@@ -17,23 +17,21 @@ body {
 }
 
 #boss-container {
-	background-color: #d8f3d8;
+	background-color: white;
 	height: 100%;
 	width: 70%;   
 	margin-left: auto;
 	margin-right: auto;
-	padding-left: 15px;
-	padding-right: 15px;
 	margin-top:0;
-	border: 0;
+	border:3px black solid;
 }
 
 .titleclass {
-	color: #184e18;
+	color: black;
 	text-align: center;
 }
 
 p {
-	color: #184e18;
+	color: black;
 	text-align: center;
 }
