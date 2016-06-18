@@ -31,6 +31,12 @@ body {
 	text-align: center;
 }
 
+.boss-photo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 p {
 	color: black;
 	text-align: center;
