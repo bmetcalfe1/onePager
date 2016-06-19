@@ -4,12 +4,11 @@ body {
 }
 
 body {
-	background: url("imgs/montreal.jpg");
+	background: url("imgs/eastEndToronto.jpg");
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	color: white;
 	height: 100%;
 	width: 100%;
 	display: flex;
@@ -22,22 +21,24 @@ body {
 	width: 70%;   
 	margin-left: auto;
 	margin-right: auto;
-	margin-top:0;
 	border:3px black solid;
 }
 
-.titleclass {
+img {
+	display: block;
+	margin: 0 auto;
+	margin-top: 10%;
+	padding: 20px;
+	border: 3px black solid;
+}
+
+h1 {
+	padding: 10px;
 	color: black;
 	text-align: center;
 }
 
-.boss-photo {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-p {
+h3 {
 	color: black;
 	text-align: center;
 }
