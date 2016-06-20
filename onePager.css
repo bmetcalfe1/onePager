@@ -54,3 +54,21 @@ h3 {
 	color: black;
 	text-align: center;
 }
+
+#bossPanel {
+    background-color: #4CAF50;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 100%;
+	width: 100%;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+	align-items: center;
+}
+
+#bossPanel {
+    display: none;
+}
