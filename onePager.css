@@ -56,7 +56,8 @@ h3 {
 }
 
 #bossPanel {
-    background-color: #4CAF50;
+    background-color: black;
+    color: white;
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
