@@ -49,13 +49,7 @@ h3 {
 	text-align: center;
 }
 
-#bossFooter  {
-	padding: 40px; 
-	color: black;
-	text-align: center;
-}
-
-#bossPanel {
+.bossPanel {
     background-color: black;
     color: white;
 	background-size: cover;
@@ -70,6 +64,12 @@ h3 {
 	align-items: center;
 }
 
-#bossPanel {
+.bossPanel {
     display: none;
+}
+
+#bossFooter  {
+	padding: 40px; 
+	color: black;
+	text-align: center;
 }
