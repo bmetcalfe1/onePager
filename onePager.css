@@ -68,6 +68,12 @@ h3 {
     display: none;
 }
 
+.bossSubmit, .bossReset {
+	color: white;
+	background-color: purple;
+	border: 0;
+}
+
 #bossFooter  {
 	padding: 40px; 
 	color: black;
